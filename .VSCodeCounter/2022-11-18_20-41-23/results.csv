@@ -1,0 +1,59 @@
+"filename", "language", "JavaScript", "JSON", "Properties", "JSON with Comments", "TypeScript", "TypeScript React", "CSS", "Markdown", "HTML", "comment", "blank", "total"
+"d:\web\fumo-market\.env", "Properties", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 7
+"d:\web\fumo-market\client\.env", "Properties", 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"d:\web\fumo-market\client\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 38, 0, 0, 33, 71
+"d:\web\fumo-market\client\package-lock.json", "JSON", 0, 37710, 0, 0, 0, 0, 0, 0, 0, 0, 1, 37711
+"d:\web\fumo-market\client\package.json", "JSON", 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 1, 56
+"d:\web\fumo-market\client\public\index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 26, 23, 1, 50
+"d:\web\fumo-market\client\public\manifest.json", "JSON", 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"d:\web\fumo-market\client\src\App.js", "JavaScript", 41, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 48
+"d:\web\fumo-market\client\src\components\AppRouter.js", "JavaScript", 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 28
+"d:\web\fumo-market\client\src\components\CreateFumo.js", "JavaScript", 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 106
+"d:\web\fumo-market\client\src\components\FumoItem.js", "JavaScript", 49, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 54
+"d:\web\fumo-market\client\src\components\FumoList.js", "JavaScript", 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 19
+"d:\web\fumo-market\client\src\components\NavBar.js", "JavaScript", 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 74
+"d:\web\fumo-market\client\src\components\colors.ts", "TypeScript", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 2
+"d:\web\fumo-market\client\src\components\components\Star.tsx", "TypeScript React", 0, 0, 0, 0, 0, 29, 0, 0, 0, 0, 4, 33
+"d:\web\fumo-market\client\src\components\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 61, 0, 0, 0, 0, 4, 65
+"d:\web\fumo-market\client\src\components\styles.css", "CSS", 0, 0, 0, 0, 0, 0, 101, 0, 0, 0, 1, 102
+"d:\web\fumo-market\client\src\components\test.tsx", "TypeScript React", 0, 0, 0, 0, 0, 54, 0, 0, 0, 0, 13, 67
+"d:\web\fumo-market\client\src\components\typings.d.ts", "TypeScript", 0, 0, 0, 0, 11, 0, 0, 0, 0, 4, 3, 18
+"d:\web\fumo-market\client\src\http\fumoAPI.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 31
+"d:\web\fumo-market\client\src\http\index.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 19
+"d:\web\fumo-market\client\src\http\userAPI.js", "JavaScript", 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 24
+"d:\web\fumo-market\client\src\index.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 18
+"d:\web\fumo-market\client\src\pages\Admin.js", "JavaScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 24
+"d:\web\fumo-market\client\src\pages\Auth.js", "JavaScript", 83, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 88
+"d:\web\fumo-market\client\src\pages\Cart.js", "JavaScript", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8
+"d:\web\fumo-market\client\src\pages\FumoEditPage.js", "JavaScript", 261, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 285
+"d:\web\fumo-market\client\src\pages\FumoPage.js", "JavaScript", 82, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7, 90
+"d:\web\fumo-market\client\src\pages\Shop.js", "JavaScript", 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 28
+"d:\web\fumo-market\client\src\react-app-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"d:\web\fumo-market\client\src\routes.js", "JavaScript", 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 50
+"d:\web\fumo-market\client\src\store\FumoStore.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 14, 7, 38
+"d:\web\fumo-market\client\src\store\UserStore.js", "JavaScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 41
+"d:\web\fumo-market\client\src\utils\const.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"d:\web\fumo-market\client\tsconfig.json", "JSON with Comments", 0, 0, 0, 25, 0, 0, 0, 0, 0, 0, 1, 26
+"d:\web\fumo-market\package-lock.json", "JSON", 0, 3197, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3198
+"d:\web\fumo-market\package.json", "JSON", 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 1, 19
+"d:\web\fumo-market\server\.env", "Properties", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 7
+"d:\web\fumo-market\server\controllers\cartController.js", "JavaScript", 74, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 82
+"d:\web\fumo-market\server\controllers\fumoController.js", "JavaScript", 119, 0, 0, 0, 0, 0, 0, 0, 0, 2, 16, 137
+"d:\web\fumo-market\server\controllers\ordersController.js", "JavaScript", 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 162
+"d:\web\fumo-market\server\controllers\userController.js", "JavaScript", 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 54
+"d:\web\fumo-market\server\db.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 13
+"d:\web\fumo-market\server\error\ApiError.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 22
+"d:\web\fumo-market\server\index.js", "JavaScript", 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 47
+"d:\web\fumo-market\server\middleware\CheckDeleteFumoFromCart.js", "JavaScript", 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 21
+"d:\web\fumo-market\server\middleware\ErrorHandlingMiddleware.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"d:\web\fumo-market\server\middleware\authMiddleware.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 19
+"d:\web\fumo-market\server\middleware\checkRoleWiddleware.js", "JavaScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 27
+"d:\web\fumo-market\server\models\models.js", "JavaScript", 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 95
+"d:\web\fumo-market\server\package-lock.json", "JSON", 0, 2724, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2725
+"d:\web\fumo-market\server\package.json", "JSON", 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 1, 23
+"d:\web\fumo-market\server\routes\cartRouter.js", "JavaScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 18
+"d:\web\fumo-market\server\routes\fumoRouter.js", "JavaScript", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"d:\web\fumo-market\server\routes\index.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 10
+"d:\web\fumo-market\server\routes\orders.Router.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 15
+"d:\web\fumo-market\server\routes\userRouter.js", "JavaScript", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 11
+"Total", "-", 1592, 43751, 15, 25, 12, 144, 101, 38, 26, 45, 296, 46045
